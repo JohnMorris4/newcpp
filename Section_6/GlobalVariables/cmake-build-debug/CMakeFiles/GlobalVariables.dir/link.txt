@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GlobalVariables.dir/main.cpp.o  -o GlobalVariables 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jmorris/CPP_Programs/Section_6/PrimitiveTypes/main.cpp
+iostream
+-
+climits
+-
+cfloat
+-
+
